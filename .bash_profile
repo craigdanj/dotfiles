@@ -1,0 +1,11 @@
+#git aliases
+alias gs='git status'
+alias gpl='git pull'
+alias gps='git push'
+alias gpsu='git push -u origin'
+alias gplo='git pull origin'
+alias gc='git checkout '
+alias gcb='git checkout -b '
+alias gcm='git add . && git commit -m '
+alias ga='git add '
+alias gaa='git add .'
